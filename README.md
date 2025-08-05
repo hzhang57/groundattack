@@ -1,6 +1,6 @@
 # GroundAttack
 
-GroundAttack contains 3 modules: captioner, distractor, and selector.
+GroundAttack contains 3 modules: Captioner, Distractor, and Selector.
 
 ## Captioner
 
