@@ -6,6 +6,8 @@ os.environ['MAX_PIXELS'] = '409600' #'1003520'
 os.environ['VIDEO_MAX_PIXELS'] = '50176'
 os.environ['FPS_MAX_FRAMES'] = '10'
 
+
+
 class vlm_qwen:
     ## Qwen2.5-VL系列模型的输入格式是<image>+question, 需要<image>的placeholder，数量与len(images)一致
     def __init__(self, model_path="Qwen/Qwen2.5-VL-7B-Instruct", print_process=False):
