@@ -1,0 +1,2 @@
+Requirement already satisfied: triton in /raid/data_zhangh4/software/miniforge3/envs/openai/lib/python3.10/site-packages (3.4.0)
+Requirement already satisfied: setuptools>=40.8.0 in /raid/data_zhangh4/software/miniforge3/envs/openai/lib/python3.10/site-packages (from triton) (80.9.0)
